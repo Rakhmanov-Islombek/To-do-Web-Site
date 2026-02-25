@@ -35,3 +35,7 @@ ul li {
 ul li:hover {
     opacity: 50%;
 }
+.loyiha-h1 {
+    text-align: center;
+    padding-top: 20px;
+}
