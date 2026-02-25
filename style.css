@@ -8,3 +8,7 @@
     max-width: 1400px;
     margin: 0 auto;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+}
