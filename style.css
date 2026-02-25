@@ -4,6 +4,12 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+header {
+    height: 70px;
+    align-items: center;
+    padding: 15px 10px;
+    background-color: rgba(172, 255, 47, 0.37);
+}
 .container {
     max-width: 1400px;
     margin: 0 auto;
